@@ -8,6 +8,8 @@ requests = "*"
 pytesseract = "*"
 pdf2image = "*"
 opencv-python = "*"
+numpy = "*"
+scipy = "*"
 
 [dev-packages]
 
