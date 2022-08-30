@@ -1,4 +1,3 @@
 
-def lambda_handler(event, contxt){
+def lambda_handler(event, contxt):
     
-}
